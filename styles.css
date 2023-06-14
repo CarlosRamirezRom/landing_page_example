@@ -1,21 +1,18 @@
 .177_2 { 
 	overflow:hidden;
-}
-.e177_2 { 
+}.e177_2 { 
 	background-color:rgba(56.000000461936, 56.000000461936, 56.000000461936, 1);
 	width:1440px;
 	height:1024px;
 	position:absolute;
-}
-.e182_18 { 
+}.e182_18 { 
 	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0);
 	width:1440px;
 	height:1024px;
 	position:absolute;
 	left:0px;
 	top:0px;
-}
-.e180_12 { 
+}.e180_12 { 
 	width:502px;
 	height:287px;
 	position:absolute;
@@ -24,8 +21,7 @@
 	background-image:url(images/logo2_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}
-.e180_13 { 
+}.e180_13 { 
 	color:rgba(255, 255, 255, 1);
 	width:93px;
 	height:25px;
@@ -36,8 +32,7 @@
 	text-align:left;
 	font-size:21px;
 	letter-spacing:0;
-}
-.e180_17 { 
+}.e180_17 { 
 	color:rgba(255, 255, 255, 1);
 	width:60px;
 	height:25px;
@@ -48,8 +43,7 @@
 	text-align:left;
 	font-size:21px;
 	letter-spacing:0;
-}
-.e180_16 { 
+}.e180_16 { 
 	color:rgba(255, 255, 255, 1);
 	width:98px;
 	height:25px;
@@ -60,8 +54,7 @@
 	text-align:left;
 	font-size:21px;
 	letter-spacing:0;
-}
-.e180_15 { 
+}.e180_15 { 
 	color:rgba(255, 255, 255, 1);
 	width:131px;
 	height:25px;
@@ -72,8 +65,7 @@
 	text-align:left;
 	font-size:21px;
 	letter-spacing:0;
-}
-.e180_14 { 
+}.e180_14 { 
 	color:rgba(255, 255, 255, 1);
 	width:142px;
 	height:25px;
@@ -84,4 +76,4 @@
 	text-align:left;
 	font-size:21px;
 	letter-spacing:0;
-}
+}
